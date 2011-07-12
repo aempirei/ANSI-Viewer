@@ -1,0 +1,4 @@
+Replace the ANSI.ANS file with whatever 80 column ANSI you want to generate
+binary data for. Then run 'make'. If all goes well then a directory named 'bin'
+will be created with the binary data required. Copy all the files in 'bin' to
+the SD card.

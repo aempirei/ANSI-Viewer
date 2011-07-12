@@ -1,0 +1,5 @@
+The SD card is connected to pin 10. Please check the driver for details about
+connection. There are 6 pins to connect.
+
+The VGA connection is based on the Propeller Proto Board. Refer to that. There's
+standard VGA connector for those.
